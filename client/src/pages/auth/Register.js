@@ -10,7 +10,7 @@ const Register = () => {
 {loading ? <Spinner/> : (
   <div className="row g-0">
           <div className="col-md-8 form-banner ">
-            <img src= './assests/images/RaktSewa.png' alt="registerImage" />
+            <img src= 'https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbr3F-i3OQu7UqmDQxCq1ZSObAofcekiu8rQZfiXj2e6ryAVQ0ZZ_qfKJUeJrmwLlJadJlK8WjPeVCONEUA4HD8lqTbaJjceyQ=w1920-h922-v0' alt="registerImage" />
           </div>
           <div className="col-md-4 form-container">
             <Form
